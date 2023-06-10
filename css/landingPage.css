@@ -1,0 +1,24 @@
+.about_team .team_people .team_bg .overlay {
+  position: static;
+}
+.sv_about .text_left h3 {
+  color: var(--color-blog);
+}
+.sv_content .text-right .text_title h3 {
+  color: var(--color-blog);
+}
+.sv_blog .team_title h3 {
+  color: var(--color-blog);
+}
+.about_team .team_title .title2 {
+  color: var(--color-blog);
+}
+.contact_bottom .content_itemlist .content_item .icon {
+  margin-left: 0;
+}
+.contact_bottom .content_itemlist .content_item .item_text {
+  margin-left: 0;
+}
+.contact .contact_map {
+  margin: 0;
+}
