@@ -1,7 +1,0 @@
--Trần Anh Nhân: làm  bao gồm cả css và html và reponsive của trang -Home
-                                                                   -Landing-pages
-                                                                   -header và footer
-- Trần Thị Đan Như: làm phần main bao gồm cả css,html và reponsive của trang -404
-                                                                             -contact.
-                                                                             -service
-                                                                             -about
